@@ -1,0 +1,6 @@
+{
+	"name": "beerlocker",
+	"main": "server.js",
+	"dependencies": {
+	}
+}
